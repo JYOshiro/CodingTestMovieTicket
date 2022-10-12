@@ -1,0 +1,30 @@
+[
+  {
+    "TicketId": 1,
+    "TicketName": "SENIOR",
+    "TicketPrice": null,
+    "TicketStartingAge": 65,
+    "TicketFinishingAge": 200
+  },
+  {
+    "TicketId": 2,
+    "TicketName": "ADULT",
+    "TicketPrice": 25,
+    "TicketStartingAge": 18,
+    "TicketFinishingAge": 65
+  },
+  {
+    "TicketId": 3,
+    "TicketName": "TEEN",
+    "TicketPrice": 12,
+    "TicketStartingAge": 11,
+    "TicketFinishingAge": 18
+  },
+  {
+    "TicketId": 4,
+    "TicketName": "CHILDREN",
+    "TicketPrice": 5,
+    "TicketStartingAge": 3,
+    "TicketFinishingAge": 11
+  }
+]

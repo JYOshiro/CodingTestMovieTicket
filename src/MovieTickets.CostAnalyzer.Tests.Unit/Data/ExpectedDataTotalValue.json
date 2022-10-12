@@ -1,0 +1,92 @@
+[
+  {
+    "TransactionId": 1,
+    "Customers": [
+      {
+        "Name": "Bender Rodriguez",
+        "Age": 18,
+        "TicketValue": 25
+      },
+      {
+        "Name": "Phillip Fry",
+        "Age": 20,
+        "TicketValue": 25
+      },
+      {
+        "Name": "Hubert Farnsworth",
+        "Age": 64,
+        "TicketValue": 25
+      }
+    ]
+  },
+  {
+    "TransactionId": 2,
+    "Customers": [
+      {
+        "Name": "Abe Simpson",
+        "Age": 76,
+        "TicketValue": 17.5
+      },
+      {
+        "Name": "Jasper Beardly",
+        "Age": 65,
+        "TicketValue": 17.5
+      }
+    ]
+  },
+  {
+    "TransactionId": 3,
+    "Customers": [
+      {
+        "Name": "Homer Simpson",
+        "Age": 36,
+        "TicketValue": 25
+      },
+      {
+        "Name": "Marge Simpson",
+        "Age": 32,
+        "TicketValue": 25
+      },
+      {
+        "Name": "Bart Simpson",
+        "Age": 11,
+        "TicketValue": 12
+      },
+      {
+        "Name": "Lisa Simpson",
+        "Age": 10,
+        "TicketValue": 5
+      },
+      {
+        "Name": "Maggie Simpson",
+        "Age": 3,
+        "TicketValue": 5
+      }
+    ]
+  },
+  {
+    "TransactionId": 4,
+    "Customers": [
+      {
+        "Name": "Ned Flanders",
+        "Age": 36,
+        "TicketValue": 25
+      },
+      {
+        "Name": "Todd Flanders",
+        "Age": 7,
+        "TicketValue": 3.75
+      },
+      {
+        "Name": "Rod Flanders",
+        "Age": 8,
+        "TicketValue": 3.75
+      },
+      {
+        "Name": "Ralph Wiggum",
+        "Age": 5,
+        "TicketValue": 3.75
+      }
+    ]
+  }
+]

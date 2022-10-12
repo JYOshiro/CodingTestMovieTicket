@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Description": "Senior discount",
+    "Rule": "ticketa%ticketb",
+    "DiscountPercentage": 30,
+    "TicketA": 1,
+    "TicketB": 2,
+    "Qtd": 1
+  },
+  {
+    "Id": 2,
+    "Description": "Children discount",
+    "Rule": "ticket%ticketb",
+    "DiscountPercentage": 25,
+    "TicketA": 4,
+    "TicketB": 4,
+    "Qtd": 3
+  }
+]

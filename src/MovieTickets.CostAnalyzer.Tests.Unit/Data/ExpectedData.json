@@ -1,0 +1,54 @@
+[
+  {
+    "TransactionId": 1,
+    "Customers": [
+      {
+        "Name": "John Smith",
+        "Age": 70,
+        "TicketType": {
+          "TicketId": 1,
+          "TicketName": "SENIOR",
+          "TicketPrice": null,
+          "TicketStartingAge": 65,
+          "TicketFinishingAge": 200
+        }
+      },
+      {
+        "Name": "Jane Doe",
+        "Age": 35,
+        "TicketType": {
+          "TicketId": 2,
+          "TicketName": "ADULT",
+          "TicketPrice": 25,
+          "TicketStartingAge": 18,
+          "TicketFinishingAge": 65
+        }
+
+      },
+      {
+        "Name": "Simon Doe",
+        "Age": 16,
+        "TicketType": {
+          "TicketId": 3,
+          "TicketName": "TEEN",
+          "TicketPrice": 12,
+          "TicketStartingAge": 11,
+          "TicketFinishingAge": 18
+        }
+
+      },
+      {
+        "Name": "Bob Doe",
+        "Age": 6,
+        "TicketType": {
+          "TicketId": 4,
+          "TicketName": "CHILDREN",
+          "TicketPrice": 5,
+          "TicketStartingAge": 3,
+          "TicketFinishingAge": 11
+        }
+
+      }
+    ]
+  }
+]
